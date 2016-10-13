@@ -3,4 +3,4 @@
 [image](http://www.30daydo.com/uploads/article/20161012/a174e3e3ea03c9c2f275c2c05ea83dd3.PNG)[image]
 每天的数据写入数据库
 
-![](resource/pic1.PNG)
+![写入数据库](resource/pic1.PNG)
