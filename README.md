@@ -5,3 +5,4 @@
 每天的数据写入数据库
 
 ![写入数据库](resource/pic1.PNG)
+![alt text](http://www.30daydo.com/uploads/article/20161012/a174e3e3ea03c9c2f275c2c05ea83dd3.PNG "MYPHOTO")
